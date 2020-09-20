@@ -1,0 +1,57 @@
+body {
+
+    background: linear-gradient(35deg, #146ab0, #9990b099, transparent), url(image.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
+.logout a {
+    list-style: none;
+    color: #ff4700 !important;
+    font-size: 21px;
+    background: #bcf1fc;
+    float: right;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.logout a :hover {
+    list-style: none;
+    text-decoration: none;
+    background: rgb(116, 30, 30) !important;
+}
+
+
+.login-box {
+    max-width: 700px;
+    float: none;
+    margin: 10px auto;
+}
+
+.login-left {
+    padding: 30px;
+    background: #8cfaff73;
+}
+
+.login-right {
+    padding: 30px;
+    background: #d2e4f6 !important;
+}
+
+.form-group lbl {
+
+    font-size: 20px;
+}
+
+.jumbotron {
+    margin-top: 300px !important;
+}
+
+div.U-header {
+    font-family: 'Lobster', cursive !important;
+}
